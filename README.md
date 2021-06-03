@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+### **Check out some of my previous projects.**
 
-You can use the [editor on GitHub](https://github.com/tguthrie1765/tguthrie1765.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Lab1
+Create my first Node.js server-side JavaScript file
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project 1
+Gain experience writing and executing non-web server Node.js JavaScript code
 
-### Markdown
+### Lab 2
+Using CLI commands for directory/file manipulation and git commands
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project 2
+Gain experience using git, writing/executing non-web server Node.js JavaScript code, and refactoring JavaScript code
 
-```markdown
-Syntax highlighted code block
+### Lab 3
+Practice refactoring JavaScript, destructuring an object, converting normal functions into arrow function expressions, creating a Node.js compatible code module using module.exports
 
-# Header 1
-## Header 2
-### Header 3
+### Project 3
+Gain experience interpreting functional descriptions, breaking a project into manageable components, writing and executing non-web server Node.js JavaScript code using VSCode, 
+writing and executing web server Node.js JavaScript code using VSCode, using Fastify with the GET verb, routes, and query parameters, and loading a file and using as a web page
 
-- Bulleted
-- List
+### Lab 4
+Work with Fastify Node.js web server and Node Package Manager (npm)
 
-1. Numbered
-2. List
+### Project 4
+Gain experience writing and executing non-web server Node.js JavaScript code using VSCode. Practice creating and using code modules and using modern JavaScript syntax
 
-**Bold** and _Italic_ and `Code` text
+### Lab 5
+Create a Node.js and fastify server application with GET and respond with JSON and use Postman to test server GET routes
 
-[Link](url) and ![Image](src)
-```
+### Project 5
+Gain experience executing/debugging Node.js code using VSCode, including module breakpoints, experience working with Array map() and forEach() methods
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Lab 6
+Working with classes
 
-### Jekyll Themes
+### Project 6
+Gain experience creating and working classes with inheritance, experience debugging code, using a generic block of code to process data and gain more experience working with static data
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tguthrie1765/tguthrie1765.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Lab 7
+Create my first GitHub repository and clone your GitHub repository to your local system
 
-### Support or Contact
+### Project 7
+Gain more experience working with GitHub repos and working with GitHub Pages
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Lab 8
+Work with fastify and node-fetch require statements
+
+### Lab 9
+Working with Github repos
