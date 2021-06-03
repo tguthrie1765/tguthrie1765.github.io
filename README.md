@@ -48,3 +48,7 @@ Work with fastify and node-fetch require statements
 
 ### Lab 9
 Working with Github repos
+
+
+### Here is a picture of hotdogs, enjoy
+![Image of hotdogs](https://images.unsplash.com/photo-1612392166886-ee8475b03af2?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80)
