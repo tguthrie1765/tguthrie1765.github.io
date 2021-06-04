@@ -47,8 +47,11 @@ Gain more experience working with GitHub repos and working with GitHub Pages
 Work with fastify and node-fetch require statements
 
 ### [Lab 9](https://tguthrie1765.github.io/cit281-lab9/)
-Working with Github repos
+Working with Github repos 
+
+<br>
+<hr>
 
 
-### Here is a picture of hotdogs, enjoy
-![Image of hotdogs](https://images.unsplash.com/photo-1612392166886-ee8475b03af2?ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80)
+### Here is a picture 
+![Image of code](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzZ8fGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
