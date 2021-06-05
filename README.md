@@ -29,7 +29,7 @@ Gain experience writing and executing non-web server Node.js JavaScript code usi
 Create a Node.js and fastify server application with GET and respond with JSON and use Postman to test server GET routes
 
 ### [Project 5](https://tguthrie1765.github.io/cit281-p5/)
-Gain experience executing/debugging Node.js code using VSCode, including module breakpoints, experience working with Array map() and forEach() methods
+Gain experience executing/debugging Node.js code using VSCode, including module breakpoints, experience working with the concept of a gaming loop
 
 ### [Lab 6](https://tguthrie1765.github.io/cit281-lab6/)
 Working with classes
